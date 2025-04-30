@@ -26,8 +26,8 @@ const LandingPage = () => {
             <a href="#features" class="inline-flex items-center justify-center rounded-lg bg-blue-600 px-6 py-3 font-medium text-white transition-colors hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2" id="el-nfjljem4" target="_self">
               Explore Features
             </a>
-            <Link to="/agent-dashboard" class="inline-flex items-center justify-center rounded-lg border border-gray-300 bg-transparent px-6 py-3 font-medium text-white transition-colors hover:bg-white/10 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2" id="el-y20jqp5o" target="_self">
-              Dashboard
+            <Link to="/signup" class="inline-flex items-center justify-center rounded-lg border border-gray-300 bg-transparent px-6 py-3 font-medium text-white transition-colors hover:bg-white/10 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2" id="el-y20jqp5o" target="_self">
+              Sign Up
             </Link>
 
           </div>

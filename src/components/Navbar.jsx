@@ -29,7 +29,7 @@ const Navbar = () => {
               <button type="button" class="flex items-center space-x-3 focus:outline-none" id="el-67k7xctd">
                 <img src="https://avatar.iran.liara.run/public/43" alt="User Avatar" class="w-8 h-8 rounded-full border border-neutral-200/30" id="el-vdtz6r10" />
                 <div class="hidden md:block text-left" id="el-cep8aems">
-                  <span class="text-sm font-medium" id="el-dg6wbqeg">Sarah Johnson</span>
+                  <span class="text-sm font-medium" id="el-dg6wbqeg">Usman</span>
                 </div>
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" id="el-mq87r9ew">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" id="el-93wyo7ql"></path>

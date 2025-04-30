@@ -88,7 +88,7 @@ const AgentNavbar = () => {
               />
             </div>
             <div className="ml-3">
-              <div className="text-sm font-medium text-white">Sarah Johnson</div>
+              <div className="text-sm font-medium text-white">Usman</div>
               <div className="text-xs text-neutral-400">Local Agent</div>
             </div>
           </div>

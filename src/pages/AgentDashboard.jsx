@@ -4,7 +4,7 @@ import AgentNavbar from '../components/AgentNavbar'
 const AgentDashboard = () => {
   return (
     
-    <div id="dashboard-overview" class="page-section p-4 md:p-6 lg:p-8">
+    <div id="dashboard-overview" className="page-section p-4 md:p-6 lg:p-8">
         <AgentNavbar />
                     <div class="mb-6" id="el-lcarssta">
                         <h2 class="text-2xl font-bold text-black mb-2" id="el-q1y8e24k">Agent Dashboard</h2>
